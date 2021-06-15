@@ -1,4 +1,5 @@
 # P.CL Kubernetes Service
+<script id="asciicast-420287" src="https://asciinema.org/a/420287.js" async></script>
 [![asciicast](https://asciinema.org/a/420287.svg)](https://asciinema.org/a/420287)
 
 ## 소개
